@@ -1,9 +1,9 @@
-https://cdn.rawgit.com/Ekstremaliny/blue/43e37727/fonts/FontAwesome.otf
+https://cdn.jsdelivr.net/gh/Ekstremaliny/blue@43e37727/fonts/FontAwesome.otf
 
-https://cdn.rawgit.com/Ekstremaliny/blue/43e37727/fonts/fontawesome-webfont.eot
+https://cdn.jsdelivr.net/gh/Ekstremaliny/blue@43e37727/fonts/fontawesome-webfont.eot
 
-https://cdn.rawgit.com/Ekstremaliny/blue/43e37727/fonts/fontawesome-webfont.svg
+https://cdn.jsdelivr.net/gh/Ekstremaliny/blue@43e37727/fonts/fontawesome-webfont.svg
 
-https://cdn.rawgit.com/Ekstremaliny/blue/43e37727/fonts/fontawesome-webfont.ttf
+https://cdn.jsdelivr.net/gh/Ekstremaliny/blue@43e37727/fonts/fontawesome-webfont.ttf
 
-https://cdn.rawgit.com/Ekstremaliny/blue/43e37727/fonts/fontawesome-webfont.woff
+https://cdn.jsdelivr.net/gh/Ekstremaliny/blue@43e37727/fonts/fontawesome-webfont.woff
